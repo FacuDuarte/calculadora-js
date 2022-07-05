@@ -17,4 +17,6 @@ En javascript, hace uso de los siguentes recursos:
 - Template stings
 - Operadores lógicos
 
+![Screenshot de como se ve la página](assets/screen-calculadora.png)
+
  
